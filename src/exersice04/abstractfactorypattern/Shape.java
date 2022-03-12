@@ -1,4 +1,4 @@
-package exersice04.avstractfactorypattern;
+package exersice04.abstractfactorypattern;
 
 public interface Shape {
 	
